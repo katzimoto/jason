@@ -1,7 +1,7 @@
 { "name" : "AAPL",
  "data" : "1.1.2018",
  "values" : {
- "start" : "1"
+ "start" : "1",
  "end" : "2"}
 }
  
