@@ -1,12 +1,12 @@
 {
   "shid":[{ "name" : "AAPL",
-  "date" : "1.1.2018",
-  "start" : "1",
-   "end" : "2"
-   },
+           "dates":["date" : "1.1.2018",
+                    "start" : "1",
+                    "end" : "2"]},
           {"name":"GOOG",
+           dates:[
            "date":"1.1.2018",
            "start":"3",
-           "end":"4"
+           "end":"4"]}
           }]
 }
